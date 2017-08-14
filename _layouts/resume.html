@@ -76,18 +76,12 @@
 
         {% for education in site.data.education %}
         <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
-          <h3 class="resume-item-title" itemprop="name">{{ education.uni1 }}</h3>
-          <h4 class="resume-item-details group" itemprop="description">{{ education.degree1 }} &bull; {{ education.year1 }}</h4>
-          <h5 class="resume-item-details award-title" itemprop="description">{{ education.awards1 }}</h5>
-          <p class="resume-item-copy">{{ education.summary1 }}</p>
-        </div>
-		<div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
           <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
           <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
           <h5 class="resume-item-details award-title" itemprop="description">{{ education.awards }}</h5>
           <p class="resume-item-copy">{{ education.summary }}</p>
         </div>
-        {% endfor %}
+		{% endfor %}
       </section>
       <!-- end Education -->
       {% endif %}
@@ -133,7 +127,7 @@
 
       {% if site.resume_section_recognition %}
       <!-- begin Recognition -->
-      <section class="content-section">
+      <!--<section class="content-section">
 
         <header class="section-header">
           <h2>Recognition</h2>
@@ -147,13 +141,13 @@
         </div>
         {% endfor %}
 
-      </section>
+      </section>-->
       <!-- end Recognition -->
       {% endif %}
 
       {% if site.resume_section_associations %}
       <!-- begin Associations -->
-      <section class="content-section">
+     <!-- <section class="content-section">
 
         <header class="section-header">
           <h2>Associations</h2>
@@ -167,13 +161,13 @@
         </div>
         {% endfor %}
 
-      </section>
+      </section>-->
       <!-- end Associations -->
       {% endif %}
 
       {% if site.resume_section_interests %}
       <!-- begin Interests -->
-      <section class="content-section">
+      <!--<section class="content-section">
 
         <header class="section-header">
           <h2>Outside Interests</h2>
@@ -187,13 +181,13 @@
           </ul>
         </div>
 
-      </section>
+      </section>-->
       <!-- end Interests -->
       {% endif %}
 
       {% if site.resume_section_links %}
       <!-- begin Links -->
-      <section class="content-section">
+      <!--<section class="content-section">
 
         <header class="section-header">
           <h2>Additional Links</h2>
@@ -207,7 +201,7 @@
           </ul>
         </div>
 
-      </section>
+      </section>-->
       <!-- end Links -->
       {% endif %}
 
@@ -227,11 +221,11 @@
       <!-- end Print Social Links -->
       {% endif %}
 
-      <footer class="page-footer">
+    <!--  <footer class="page-footer">
         <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
         <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
       </footer>
-
+	-->
     </div>
 
   </body>
