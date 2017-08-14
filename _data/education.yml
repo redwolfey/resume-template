@@ -1,6 +1,12 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards: Quickest to fall asleep
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree1: Associates of Science in Liberal Arts <br /> Focus in Health Professions
+  uni1: Excelsior College
+  year1: 2013 &mdash; 2015
+  awards1: Dean's List
+  #summary: If you had any meaningful roles at college, feel free to write about them here
+   
+- degree: BS Technical Management
+  uni: Embry-Riddle Aeronautical University
+  year: 2015 &mdash; Present
+  summary: Currently attending graduation expected Fall 2018.  Attending Microsoft Software and Systems Academy through Embry-Riddle.  Focusing on Cloud Applications Developement.
+  
