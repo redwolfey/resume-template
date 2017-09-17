@@ -2,15 +2,33 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # donutfinder.io
-#- project: donutfinder.io
- # role: Founder & Primary Developer
-  #duration: 2012 &mdash; Present
-  # url: "#"
-  #description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
-
-#Springfield Donut Eater's User Group
-#- project: Springfield Donut Eater's User Group
-#  role: Co-Founder & Organizer
-#  duration: 2007 &mdash; Present
-  # url: "#"
-#  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+- project: rperkins.me
+  #role: Founder & Primary Developer
+  #duration: 201 &mdash; Present
+  url: "https://rperkins.me"
+  description: Static website, built to display my resume.
+                <ul class="resume-item-list">
+                 <li>Skills Used</li>
+                 <ul class="resume-item-list">
+                    <li>CSS</li>
+                    <li>HTML5</li>
+                    <li>Web Developement</li>
+                 </ul>
+               </ul>
+- project: MTA 98-361 Software Developement Fundamentals
+  #role: Founder & Primary Developer
+  #duration: 201 &mdash; Present
+  #url: "https://rperkins.me"
+  description: Required for MSSA program.
+                <ul class="resume-item-list">
+                 <li>Skills Used</li>
+                 <ul class="resume-item-list">
+                    <li>C#</li>
+                    <li>ASP.NET and .NET Core</li>
+                    <li>Visual Studios</li>
+                    <li>Database Managment and Software Lifecycle</li>
+                    <li>HTML5</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                 </ul>
+                </ul>

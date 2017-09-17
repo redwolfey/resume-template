@@ -1,11 +1,22 @@
 # Degree
 - degree: BS Technical Management
   uni: Embry-Riddle Aeronautical University
+  gpa: GPA 3.75
   year: 2015 &mdash; Present
-  summary: Currently attending graduation expected Fall 2018.  Attending Microsoft Software and Systems Academy through Embry-Riddle.  Focusing on Cloud Applications Developement.
+  summary: <ul class="resume-item-list">
+            <li>Related Classes and Skills</li>
+                <ul class="resume-item-list">
+                    <li>Networks and Security - Routing and Switching, TCP/IP</li>
+                    <li>Object Oriented Programming - Java</li>
+                    <li>Operating Systems - Linux and Assembly</li>
+                    <li>Database Management - MS SQL Server, SQL</li>
+                    <li>Computer Security - CompTIA Security+</li>
+                </ul>
+           </ul>
 
-- degree: Associates of Science in Liberal Arts, Focus in Health Professions
+- degree: Associates of Science in Liberal Arts
   uni: Excelsior College
+  gpa: GPA 3.5
   year: 2013 &mdash; 2015
   awards: Dean's List
   #summary: If you had any meaningful roles at college, feel free to write about them here  
