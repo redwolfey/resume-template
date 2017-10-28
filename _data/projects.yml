@@ -13,22 +13,20 @@
                     <li>CSS</li>
                     <li>HTML5</li>
                     <li>Web Developement</li>
+                    <li>BootStrap</li>
+                    <li>Javascript</li>
                  </ul>
                </ul>
-- project: MTA 98-361 Software Developement Fundamentals
+- project: Hacking: Art of Exploitation
   #role: Founder & Primary Developer
   #duration: 201 &mdash; Present
   #url: "https://rperkins.me"
-  description: Required for MSSA program.
+  description: Working through the book.
                 <ul class="resume-item-list">
                  <li>Skills Used</li>
                  <ul class="resume-item-list">
-                    <li>C#</li>
-                    <li>ASP.NET and .NET Core</li>
-                    <li>Visual Studios</li>
-                    <li>Database Managment and Software Lifecycle</li>
-                    <li>HTML5</li>
-                    <li>CSS</li>
-                    <li>JavaScript</li>
+                    <li>C</li>
+                    <li>Linux</li>
+                    <li>Bash</li>
                  </ul>
                 </ul>
