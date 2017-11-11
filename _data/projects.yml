@@ -17,16 +17,16 @@
                     <li>Javascript</li>
                  </ul>
                </ul>
-- project: Hacking: Art of Exploitation
+  #- project: Hacking: Art of Exploitation
   #role: Founder & Primary Developer
   #duration: 201 &mdash; Present
   #url: "https://rperkins.me"
-  description: Working through the book.
-                <ul class="resume-item-list">
-                 <li>Skills Used</li>
-                 <ul class="resume-item-list">
-                    <li>C</li>
-                    <li>Linux</li>
-                    <li>Bash</li>
-                 </ul>
-                </ul>
+  #description: Working through the book.
+  #             <ul class="resume-item-list">
+  #               <li>Skills Used</li>
+  #               <ul class="resume-item-list">
+  #                  <li>C</li>
+  #                  <li>Linux</li>
+  #                  <li>Bash</li>
+  #               </ul>
+  #              </ul>
