@@ -2,31 +2,31 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # donutfinder.io
-- project: This Site!
+#- project: This Site!
   #role: Founder & Primary Developer
   #duration: 201 &mdash; Present
-  url: "https://rperkins.me"
-  description: Static website, built to display my resume.
-                <ul class="resume-item-list">
-                 <li>Skills Used</li>
-                 <ul class="resume-item-list">
-                    <li>CSS</li>
-                    <li>HTML5</li>
-                    <li>Web Developement</li>
-                    <li>BootStrap</li>
-                    <li>Javascript</li>
-                 </ul>
-               </ul>
-  - project: Hacking Art of Exploitation
+#  url: "https://rperkins.me"
+#  description: Static website, built to display my resume.
+#                <ul class="resume-item-list">
+#                 <li>Skills Used</li>
+#                 <ul class="resume-item-list">
+#                    <li>CSS</li>
+#                    <li>HTML5</li>
+#                    <li>Web Developement</li>
+#                    <li>BootStrap</li>
+#                    <li>Javascript</li>
+#                 </ul>
+#               </ul>
+#  - project: Hacking Art of Exploitation
   #role: Founder & Primary Developer
   #duration: 201 &mdash; Present
   #url: "https://rperkins.me"
-  description: Working through the book.
-               <ul class="resume-item-list">
-                 <li>Skills Used</li>
-                 <ul class="resume-item-list">
-                    <li>C</li>
-                    <li>Linux</li>
-                    <li>Bash</li>
-                 </ul>
-               </ul>
+#  description: Working through the book.
+#               <ul class="resume-item-list">
+#                <li>Skills Used</li>
+#                 <ul class="resume-item-list">
+#                    <li>C</li>
+#                    <li>Linux</li>
+#                    <li>Bash</li>
+#                 </ul>
+#               </ul>
