@@ -7,7 +7,6 @@
   description: July 2014 to Present
   
 - skill: MTA 98-361 Software Development Fundamentals
-  description: October 2017
   
 - skill: Security Clearance
   description: Active DoD Secret Clearance
@@ -17,3 +16,12 @@
 
 - skill: Web Design
   description: Can build and design both static and dynamic web pages, including Web Applications.
+  
+- skill: C
+  description: Knowledge of Fundamentals of the language
+  
+- skill: Python
+  description: Basic proficient use and knowledge
+  
+- skill: Linux
+  description: In-depth knowledge of Kali, Ubuntu, Debian and Fedora. Includes knowledge of Bash and very basic PERL scripting.
