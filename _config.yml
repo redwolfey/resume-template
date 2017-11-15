@@ -11,11 +11,11 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Kenneth R Perkins"
-resume_title:                   "Systems Administrator and Cybersecurity Student"
+resume_title:                   "Systems Administrator, Transitioning Vet, and Cybersecurity Student"
 resume_contact_email:           "kenneth@rperkins.me"
 #resume_contact_telephone:       "123"
-resume_contact_address:         "Jacksonville, FL"
-resume_header_contact_info: "Jacksonville, FL | kenneth@rperkins.me"
+resume_contact_address:         "Want to Relocate to the Midwest"
+resume_header_contact_info: "Anywhere, USA | kenneth@rperkins.me"
 resume_header_intro: "<p>Results driven, detail-oriented professional with 5+ years of military, leadership, and supervisor experience wanting to break into Information Security and Cyber Security.  Proven reliability and work ethic, coupled with a passion for learning new technologies and adapting quickly to new environments. </p>"
 
 # use "yes" to display the email contact button,
