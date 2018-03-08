@@ -4,12 +4,16 @@
   position: Laboratory Information Systems Administrator
   duration: March, 2017 &mdash; Present
   summary: <ul class="resume-item-list">
-                <li>Created and maintained over 10,000 laboratory test files and tables. Responsible for  updating all reference ranges, critical values, test methodologies, and all other changes within the LIS.</li>
-                <li>Instructed over 70 Laboratory Technicians, Technologists and laboratory staff on basic LIS principles, application of procedures and processes, coordination of instrument test changes and updates.  </li>
-                <li>Provide orientation, training and ongoing education on the LIS to laboratory personnel.</li>
-                <li>Brought a new Point of Care Information Management system online, to ensure proper interfacing from POC device to the Electronic Health Record.  This ensured that results were available to Healthcare Providers immediately, and all regulatory requirements were met.  Also reduced post-analytical errors by 15%.</li>
-                <li>Installed 2 new Laboratory instruments.  Responsible for all interfacing with current Electronic Health Record. Reduced both pre, and post-analytical errors by 11%.  Also reduced turn around times for critical coagulation testing by 60 minutes.  Saved technicians 1.5hours over all three shifts.</li>
-                <li>Recognized as LIS and technology subject matter expert.</li>
+                <li>Planned, installed, configured and supported all laboratory instrumentation, software, and networked equipment, resulting in a 99.0% uptime for all Lab instrumentation.</li>
+                <li>Provided primary systems administration including account setup, configuration, and
+troubleshooting of vendor laboratory software, mostly running on Windows.</li>
+                <li>Analyzed system logs, to determine errors and trends to prevent issues from arising.li>
+                <li>Provided end user support to 70+ users in a Windows XP, 7 and 10 environment.</li>
+                <li>Provided consultation services to management, by analyzing user requirements and statistics,
+regarding Information Technology solutions. Resulting in the implementation of 3 new
+interfaces with our existing software.</li>
+                <li>Created Visual Basic Scripts to automate report generation, backup of applications, and report
+processing.</li>
             </ul>
             
 
