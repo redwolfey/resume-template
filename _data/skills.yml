@@ -1,33 +1,33 @@
 # Skills
 
--skill: CompTIA A+ Network+ and Security+
- description: COMP001021151747
+- skill: CompTIA A+ Network+ and Security+
+  description: COMP001021151747
   
--skill: Medical Laboratory Technician (ASCP)
- description: July 2014 to Present
+- skill: Medical Laboratory Technician (ASCP)
+  description: July 2014 to Present
   
--skill: MTA 98-361 Software Development Fundamentals
+- skill: MTA 98-361 Software Development Fundamentals
   
--skill: Security Clearance
- description: Active DoD Secret Clearance
+- skill: Security Clearance
+  description: Active DoD Secret Clearance
   
--skill: C#/.NET Development
- description: Proficient with the use of C# and the .NET Framework to solve complex problems, both in web design areas and Windows Applications.
+- skill: C#/.NET Development
+  description: Proficient with the use of C# and the .NET Framework to solve complex problems, both in web design areas and Windows Applications.
 
--skill: SQL/Relational Databases
- description: Basic knowledge of SQL and Relational Databases.
+- skill: SQL/Relational Databases
+  description: Basic knowledge of SQL and Relational Databases.
 
--skill: C
- description: Knowledge of Fundamentals of the language
+- skill: C
+  description: Knowledge of Fundamentals of the language
   
--skill: Python
- description: Basic proficient use and knowledge
+- skill: Python
+  description: Basic proficient use and knowledge
  
--skill: Security and Network Tools
- description: Command Line Troubleshooting tools: ipconfig/ifconfig, tracert, ping, etc. pfSense, Nessus, Burp Suite, nmap, Wireshark, Netcat, Metasploit
+- skill: Security and Network Tools
+  description: Command Line Troubleshooting tools: ipconfig/ifconfig, tracert, ping, etc. pfSense, Nessus, Burp Suite, nmap, Wireshark, Netcat, Metasploit
   
--skill: Linux
- description: In-depth knowledge of Kali, Ubuntu, Debian, centOS, freeBSD and Fedora. Includes knowledge of Bash and very basic PERL scripting.
+- skill: Linux
+  description: In-depth knowledge of Kali, Ubuntu, Debian, centOS, freeBSD and Fedora. Includes knowledge of Bash and very basic PERL scripting.
 
--skill: Windows
- description: Troubleshooting experience with Windows XP, Vista, 7, 8, and 10.
+- skill: Windows
+  description: Troubleshooting experience with Windows XP, Vista, 7, 8, and 10.
